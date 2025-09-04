@@ -46,8 +46,7 @@ A powerful Python application that uses computer vision and hand tracking to con
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
-   cd PE\ 11
+   git clone https://github.com/srivastavaaaa/Project
    ```
 
 2. **Install required packages**
@@ -151,13 +150,6 @@ Use **Thumb + Middle + Ring** to cycle through modes:
 - **Camera**: 720p or higher resolution
 - **OS**: Windows 10+, macOS 10.14+, or Linux
 
-## 📁 Project Structure
-
-```
-PE 11/
-├── code.py              # Main application file
-├── README.md            # This documentation
-└── gesture_profile.json # Saved user settings (auto-generated)
 ```
 
 ## 🎓 Learning Resources
@@ -174,18 +166,8 @@ PE 11/
 - **Two-Hand Gestures**: Master zoom and rotate controls
 - **Custom Shortcuts**: Modify the code for application-specific gestures
 
-## 🤝 Contributing
 
-This project is open for contributions! Areas for improvement:
-- Additional gesture recognition
-- Better UI/UX design
-- Performance optimizations
-- Cross-platform compatibility
-- Accessibility features
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -193,16 +175,8 @@ This project is open source and available under the MIT License.
 - **OpenCV**: Computer vision library
 - **PyAutoGUI**: Cross-platform GUI automation
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the troubleshooting section above
-2. Review the gesture reference guide
-3. Try the calibration mode
-4. Check system requirements
-
----
 
 **Happy Gesturing! 🖐️✨**
 
 *Transform your computer interaction with the power of hand gestures!*
+
